@@ -5,18 +5,18 @@ TODO
 Setup
 
 - [x] Create folder structure
-- [] Create a Github repo
-- [] Create .gitignore
-- [] Link Repo on Vercel
+- [x] Create a Github repo
+- [x] Create .gitignore
+- [x] Link Repo on Vercel
 
 Front End
 
-- [] Create a Simple Landing Page
-- [] Add jQuery
-- [] Add Tableau JS file
-- [] Create frontend JavaScript file
-  - [] Schema for WDCs
-- [] Deploy to Vercel
+- [x] Create a Simple Landing Page
+- [x] Add jQuery
+- [x] Add Tableau JS file
+- [x] Create frontend JavaScript file
+  - [x] Schema for WDCs
+- [x] Deploy to Vercel
 
 Test
 
