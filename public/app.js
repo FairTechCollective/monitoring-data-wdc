@@ -46,7 +46,7 @@
                     "State_Abbreviation": feat[i].State_Abbreviation,
                     "Region": feat[i].Region,
                     "Sampler_Name": feat[i].Sampler_Name,
-                    "Sampler_Type": feat[i].Sample_Type
+                    "Sampler_Type": feat[i].Sampler_Type
                 });
             }
             table.appendRows(tableData);
